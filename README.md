@@ -1,0 +1,2 @@
+# Credit_Card_Fraud_Detection
+Completed my Machine Learning project on fraud detection in credit card using jupyter notebook.Dealing with unbalanced data and balancing it by using Randon Under-Sampling(RUS).Using train test split method to divide data into two different parts for training and testing the model and after the training of model using accuracy score to check the accuracy of the model.
